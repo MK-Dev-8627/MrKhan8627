@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrKhan8627
+- 👋 Hi, I’m Umar Farooq
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Futter
+- 🌱 I’m currently working on Flutter and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 WhatsApp. https://wa.me/qr/OTLQ4IMFI
